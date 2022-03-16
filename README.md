@@ -19,8 +19,12 @@ The following **bonus** features are implemented:
 - [ ] Profile pictures are shown for posts and comments. (2pts)
 
 ## Video Walkthrough
-
 Here's a walkthrough of implemented user stories:
+
+<img src="Part2InstaCloneUpdate.gif" width=250><br>
+
+
+OLD GIF 
 
 <img src="Part2InstaClone.gif" width=250><br>
 
