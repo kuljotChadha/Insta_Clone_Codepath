@@ -14,6 +14,7 @@
 		F332F79027D84AAC0090A8FE /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F332F78F27D84AAC0090A8FE /* FeedViewController.swift */; };
 		F332F79227D8545C0090A8FE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F332F79127D8545C0090A8FE /* CameraViewController.swift */; };
 		F332F79427D85DFD0090A8FE /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F332F79327D85DFD0090A8FE /* PostCell.swift */; };
+		F332F79627DBE78D0090A8FE /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F332F79527DBE78D0090A8FE /* CommentCell.swift */; };
 		F38089E327D8452900714B9F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F38089E227D8452900714B9F /* AppDelegate.swift */; };
 		F38089E527D8452900714B9F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F38089E427D8452900714B9F /* SceneDelegate.swift */; };
 		F38089EA27D8452900714B9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F38089E827D8452900714B9F /* Main.storyboard */; };
@@ -55,6 +56,7 @@
 		F332F78F27D84AAC0090A8FE /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		F332F79127D8545C0090A8FE /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		F332F79327D85DFD0090A8FE /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		F332F79527DBE78D0090A8FE /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		F38089DF27D8452900714B9F /* insta.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = insta.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F38089E227D8452900714B9F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F38089E427D8452900714B9F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				F332F78D27D84A940090A8FE /* LoginViewController.swift */,
 				F332F78F27D84AAC0090A8FE /* FeedViewController.swift */,
 				F332F79327D85DFD0090A8FE /* PostCell.swift */,
+				F332F79527DBE78D0090A8FE /* CommentCell.swift */,
 			);
 			path = insta;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				F332F79027D84AAC0090A8FE /* FeedViewController.swift in Sources */,
 				F38089E527D8452900714B9F /* SceneDelegate.swift in Sources */,
 				F332F79427D85DFD0090A8FE /* PostCell.swift in Sources */,
+				F332F79627DBE78D0090A8FE /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
